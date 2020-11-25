@@ -1,2 +1,4 @@
-# font
-FlmSYS Font
+# FlmSYS Font
+FlmSYS Font, oyunu, tarzını ve havasını değiştirme konusunda geniş deneyime sahip FLM SYSTEMS tarafından geliştirilmiştir. Oyun oynarken oyuncuların sürükleyici bir deneyime sahip olmasını sağlamak için, oyunun yazıları biraz değiştirildi. Ayrıca önemli ölçüde oyun zevkini ve havasını artırmak için oluşturulmuştur. Çok sayıda font mevcut olsa da, oyuncular bu fontu bir dizi nedenden dolayı kullanmayı düşünmelidir. Bu fontlar son derece iyi tasarlanmış ve oyunun zevkini artırmaya yardımcı olur. Ayrıca görsel olarak çekici. Font'un tasarımcısı diğer yüksek puanlı fontların bir dizi geliştiricisi olan FLM SYSTEMS'dir. Bu nedenle oyuncular bu fontun en yüksek kalitede olduğundan emin olabilirler. Oyun düzenli olduğundan, oyuncular oyuna daldırılır. Font'daki gelişmelere ek olarak, oyuncular saniyede bir kare (FPS) artışı alabildikleri için bu font tercih edilir. Bunun nedeni, font pixellerinin daha iyi performans için optimize edilmiş olmasıdır. Dolayısıyla, yalnızca düşük uç bir bilgisayara erişebilen veya erişebilen Minecraft oyuncuları, kare performansını olumsuz yönde etkilemeden yüksek kaliteli görünüm alabildikleri için bu fontu kullanmayı tercih edecektir.
+
+© FLM SYSTEMS
